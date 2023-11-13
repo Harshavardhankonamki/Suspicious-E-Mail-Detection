@@ -1,0 +1,24 @@
+Flagged Email: winner@gmail.com
+Reason: Contains suspicious keywords in the email address. 
+
+Flagged Email: freecash@gmail.com
+Reason: Contains suspicious keywords in the email address. 
+
+Flagged Email: yesho@gmial.com
+Reason: Contains suspicious keywords in the email body. 
+
+Flagged Email: yesho@free.com
+Reason: Contains suspicious keywords in the email address. Contains suspicious keywords in the email body. 
+
+Flagged Email: ranga@gmial.com
+Reason: Contains suspicious keywords in the email body. 
+
+Flagged Email: ranga@gmail
+Reason: Invalid domain in the email address. 
+
+Flagged Email: hjv
+Reason: Invalid domain in the email address. 
+
+Flagged Email: 
+Reason: Invalid domain in the email address. 
+
